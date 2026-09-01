@@ -1,3 +1,5 @@
+'use client'
+
 import Image from 'next/image'
 import { SectionLabel } from '@/components/section-label'
 import { ScrollReveal } from '@/components/scroll-reveal'
